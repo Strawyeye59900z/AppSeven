@@ -202,7 +202,7 @@ export default function App() {
                 <Building size={18} />
               </div>
               <div>
-                <h1 className="font-display font-bold text-sm tracking-tight text-white">Mansão Heitor Vila Lobos</h1>
+                <h1 className="font-display font-bold text-sm tracking-tight text-white">Seven Residence</h1>
                 <p className="text-[10px] text-blue-300/60 font-mono tracking-widest">SISTEMA CONDOMINIAL</p>
               </div>
             </div>

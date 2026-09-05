@@ -83,7 +83,7 @@ export default function ResidentAuth({ onLoginSuccess, onAdminInitiate, onEmploy
             <Building2 size={40} />
           </div>
           <h1 className="font-display text-5xl font-bold tracking-tight">
-            Mansão<br />Heitor Vila Lobos
+            Seven<br />Residence
           </h1>
         </div>
 
